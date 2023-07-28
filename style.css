@@ -1,0 +1,23 @@
+/* body {
+  color: #fcfdff;
+  background-color: #0c2a4a;
+} */
+
+/* body {
+  color: #fcfdff;
+  background-color: #0c2a4a;
+} */
+
+.slide-content {
+  max-width: 60ch;
+}
+
+strong {
+  font-weight: 500;
+  color: #a6e22e;
+}
+
+blockquote {
+  overflow-y: scroll;
+  max-height: 100%;
+}

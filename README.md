@@ -12,3 +12,7 @@
 
 This makes a html file.
 
+## Add
+
+- Conversor sphinx - cleaver
+- quando escreve `--` gera um novo slide com o título do anterior.
