@@ -13,19 +13,19 @@ theme: sjaakvandenberg/cleaver-dark
 # O sol da meia noite
 
 ## Contribuições do racionalismo crítico para a psicanálise lacaniana
-
+<br/>
 ![](img/sun.jpg)
 
 --
 
 ### Sumário
 
-1. Polêmicas
+1. Polêmicas e etc
 1. Sociedade fechada x aberta
-1. Objetividade x subjetividade
-1. Fundamentação x falibilismo
-1. Essencialismo x nominalismo
-1. Exemplos
+2. Fundamentação x falibilismo
+3. Objetividade x subjetividade
+4. Essencialismo x nominalismo
+5. Exemplos
 
 --
 
@@ -35,7 +35,7 @@ theme: sjaakvandenberg/cleaver-dark
  
 --
 
-### 1.1 Ele já está aqui
+### Ele já está aqui
 
 Eidelsztein:
 
@@ -43,7 +43,7 @@ Eidelsztein:
 
 --
 
-### 1.1 Ele já está aqui
+### Ele já está aqui
 
 Guillamón:
 
@@ -51,7 +51,7 @@ Guillamón:
 
 --
 
-### 1.1 Ele já está aqui
+### Ele já está aqui
 
 Popper:
 
@@ -59,7 +59,7 @@ Popper:
 
 --
 
-### 1.1 Ele já está aqui
+### Ele já está aqui
 
 Popper:
 
@@ -67,7 +67,7 @@ Popper:
 
 --
 
-### 1.1 Ele já está aqui
+### Ele já está aqui
 
 Guillamón:
 
@@ -75,7 +75,7 @@ Guillamón:
 
 --
 
-### 1.1 Ele já está aqui
+### Ele já está aqui
 
 Popper:
 
@@ -83,7 +83,7 @@ Popper:
 
 --
 
-### 1.1 Ele já está aqui
+### Ele já está aqui
 
 Lacan:
 
@@ -91,7 +91,7 @@ Lacan:
 
 --
 
-### 1.1 Ele já está aqui
+### Ele já está aqui
 
 A APOLa é mais popperiana que lacaniana em muitos sentidos.
 - comunicabilidade
@@ -100,7 +100,7 @@ A APOLa é mais popperiana que lacaniana em muitos sentidos.
 
 --
 
-### 1.2 "Popper era positivista" pt.1
+### "Popper era positivista" pt.1
 
 Popper:
 
@@ -108,20 +108,20 @@ Popper:
 
 --
 
-### 1.2 "Popper era positivista" pt.1
+### "Popper era positivista" pt.1
 
 
 > **Até mesmo alguns positivistas lógicos, lembrando-se de que o livro havia sido lançado nessa série, preferiram ver em mim um aliado em vez de um crítico.** [...] E como eu não insisti em meu ataque (lutar contra o positivismo lógico não é, de forma alguma, um grande interesse meu), os positivistas lógicos não sentiram que o positivismo lógico estava sendo seriamente desafiado. 
 
 --
 
-### 1.2 "Popper era positivista" pt.1
+### "Popper era positivista" pt.1
 
 > **Hoje em dia, todo mundo sabe que o positivismo lógico está morto. Mas ninguém parece suspeitar que possa haver uma pergunta a ser feita aqui - a pergunta "Quem é o responsável?" [...] Temo que eu tenha que admitir a responsabilidade. No entanto, não fiz isso de propósito: minha única intenção era apontar o que me parecia ser uma série de erros fundamentais**.”
 
 --
 
-### 1.2 "Popper era positivista" pt.2
+### "Popper era positivista" pt.2
 
 Popper:
 
@@ -129,7 +129,7 @@ Popper:
 
 --
 
-### 1.2 "Popper era positivista" pt.2
+### "Popper era positivista" pt.2
 
 Popper:
 
@@ -137,7 +137,7 @@ Popper:
 
 --
 
-### 1.2 "Popper era positivista" pt.2
+### "Popper era positivista" pt.2
 
 Popper:
 
@@ -147,7 +147,7 @@ O não-todo?
 
 --
 
-### 1.2 "Popper era positivista" pt.3
+### "Popper era positivista" pt.3
 
 Popper:
 
@@ -155,7 +155,7 @@ Popper:
 
 --
 
-### 1.2 "Popper era positivista" pt.3
+### "Popper era positivista" pt.3
 
 Popper:
 
@@ -163,7 +163,7 @@ Popper:
 
 --
 
-### 1.2 "Popper era positivista" pt.3
+### "Popper era positivista" pt.3
 
 Popper:
 
@@ -171,7 +171,7 @@ Popper:
 
 --
 
-### 1.3 "Popper foi superado pelo Kuhn"
+### "Popper foi superado pelo Kuhn"
 
 - prescrição x descrição
 - se o mundo já fosse assim ele não teria que dizer isso
@@ -183,7 +183,7 @@ Popper:
 
 -- 
 
-### 1.3 "Popper foi superado pelo Kuhn"
+### "Popper foi superado pelo Kuhn"
 
 Descrição:
 > A psicanálise não produz essa definição [de 'feminino']. Ele dá conta de como essa definição é produzida. (Rose, 1982, p. 57)
@@ -193,7 +193,7 @@ Prescrição:
 
 --
 
-### 1.4 Questão de pseudociência
+### Questão de pseudociência
 
 1. é um [*hit piece*](https://en.wiktionary.org/wiki/hit_piece) - Um artigo ou post publicado com o objetivo de **influenciar a opinião pública**, especialmente apresentando informações **falsas ou tendenciosas de uma forma que pareça objetiva** e verdadeira.
 2. Pilati não gosta como a psicanálise adquire legimitidade ao 'mimetizar' a ciência. (isso não é uma crítica; isso é uma queixa)
@@ -202,7 +202,7 @@ Prescrição:
 
 --
 
-### 1.4 Questão de pseudociência
+### Questão de pseudociência
 
 - popper diz que a racionalidade é uma /obrigação moral/. só se é obrigado a coisas que não acontecem sozinhas. 
    - Pilati age como se o objetivo da vida humana fosse 'representar a realidade'.
@@ -211,7 +211,7 @@ Prescrição:
 
 --
 
-### 1.4 Questão de pseudociência
+### Questão de pseudociência
 
 - Para popper, a dominancia de discursos autoritários. É uma questão pública.
   - a ciência não produz pessoas automaticamente mais virtuosas.
@@ -221,14 +221,14 @@ Prescrição:
 
 --
 
-### 1.4 Questão de pseudociência
+### Questão de pseudociência
 
 -  Ou seja: Pilati toma a ciência como fundamento: como um exemplo de como devemos agir em todas as situações.
 -  ~~pilati tentou incluir a psicanálise na guerra cultural ciência x negacionismo. dunker rebateu. não existe guerra contra a psicanálise. vida que segue!~~
 
 --
 
-### 1.4 Questão de pseudociência
+### Questão de pseudociência
 
 Popper:
 
@@ -236,7 +236,7 @@ Popper:
 
 --
 
-### 1.4 Questão de pseudociência
+### Questão de pseudociência
 
 Pilati: 
 
@@ -246,7 +246,7 @@ Pilati:
 
 --
 
-### 1.4 Questão de pseudociência
+### Questão de pseudociência
 
 Pilati:
 
@@ -257,9 +257,9 @@ Pilati:
 
 --
 
-### 1.4 Questão de pseudociência
+### Questão de pseudociência
 
-Todas essas críticas cabem a Pasternak e Orsi (2023)!
+Todas essas críticas cabem a Pasternak e Orsi (2023) !
 
 E em menor grau à PBE (Ferreira et al.)
 
@@ -271,7 +271,8 @@ A dimensão normativa da verdade
 
 
 # 2. A sociedade fechada
-
+## Nossa responsabilidade com o inevitável
+<br/>
 ![There is not alternative](img/alternativa.jpg)
 
 --
@@ -399,7 +400,7 @@ Flávia Dutra:
 
 Platão:
 
-> O maior princípio de todos é que ninguém, seja homem ou mulher, deve ficar sem um líder. Nem a mente de ninguém deve estar habituada a deixá-lo fazer qualquer coisa por sua própria iniciativa; nem por zelo, nem mesmo por brincadeira. Mas na guerra e no meio da paz - para seu líder ele deve dirigir seus olhos e segui-lo fielmente. **E mesmo na menor questão ele deve estar sob liderança**. Por exemplo, ele deve levantar-se, ou mover-se, ou lavar-se, ou tomar as suas refeições... apenas se lhe for dito para o fazer. Em uma palavra, **ele deve ensinar sua alma, por longo hábito, a nunca sonhar em agir de forma independente** e a se tornar totalmente incapaz disso. (Platão, OSE)
+> **O maior princípio de todos é que ninguém, seja homem ou mulher, deve ficar sem um líder**. Nem a mente de ninguém deve estar habituada a deixá-lo fazer qualquer coisa por sua própria iniciativa; nem por zelo, nem mesmo por brincadeira. Mas na guerra e no meio da paz - para seu líder ele deve dirigir seus olhos e segui-lo fielmente. E mesmo na menor questão **ele deve estar sob liderança**. Por exemplo, ele deve levantar-se, ou mover-se, ou lavar-se, ou tomar as suas refeições... apenas se lhe for dito para o fazer. Em uma palavra, ele deve ensinar sua alma, por longo hábito, a **nunca sonhar em agir de forma independente** e a se tornar totalmente incapaz disso. (Platão, OSE)
 
 --
 
@@ -445,5 +446,325 @@ Platão:
 ### Uma crítica popperiana: Szasz (1974)
 
 > É assim que o paradoxo que é a psicanálise - um sistema composto por uma **teoria historicista** e uma **terapia anti-historicista** - surgiu.
+
+--
+
+### Outras críticas
+
+> **não se trata, apenas, de que elas sejam irrefutáveis**. Se fosse essa a questão, isto apenas exigiría um esforço no sentido de formulá-las de forma a permitir confrontos críticos com as práticas e com as observações. **O grave, para ele, é que a teoria psicanalítica parece ter sido construída de forma a evitar deliberadamente uma eventual refutação**. (Figueiredo & Loureiro)
+
+- metafísicas são irrefutáveis mas são passíveis de argumentação.
+
+--
+
+### Outras críticas
+
+> A questão crucial é outra: trata-se da propensão da psicanálise a tudo explicar e compreender, **encontrando em toda parte instâncias confirmatorias e nunca especificando com precisão o que poderia ser uma observação/interpretação invalidante (ou, ao menos, perturbadora)**. (Figueiredo & Loureiro)
+
+--
+
+### A psicanálise é uma sociedade aberta?
+
+> Em que condições um psicanalista estaria disposto a **renunciar** às suas crenças?
+> 
+> Que experiências práticas ou que observações poderíam ser caracterizadas como fracassos teóricos da psicanálise, e não apenas como **fracassos individuais** de tal ou qual analista? (Dunker)
+> 
+> Com que liberdade os psicanalistas podem entreter uns com os outros uma prática dialógica isenta do poder da **autoridade** e da **tradição**? (CJ)
+
+
+--
+
+### A psicanálise é uma sociedade aberta?
+
+> A comunidade psicanalitica brasileira foi surpreendida no final de 2021 pelo anüncio da criaçäo de um curso universitårio de graduaçäo em psicanålise, **o que contraria toda a tradiçäo — nacional e internacional — referente å formaçäo do psicanalista**. Desde a criaqäo da psicanålise por Sigmund **Freud** até os avanços substanciais da teoria e da clinica psicanalitica trazidos pelo ensino de Jacques **Lacan**, a formaçäo analitica é oferecida exclusivamente pelas sociedades de psicanålise, criadas para este fim **hå mais de cem anos**.
+
+https://www1.folha.uol.com.br/opiniao/2022/01/bacharelado-em-psicanalise-e-aberracao.shtml
+
+--
+
+# 3. Essencialismo
+
+![Alt text](img/cabrito.png)
+
+
+### As dunas e o vento
+
+- ah mas ele era um positivista!
+- ele queria dominar a natureza por meio das definições!!
+- civilizar o real por meio de semblantes!!!
+- a psicanálise lida justamente com a Verdade que foge ao Saber!!!!
+
+--
+
+### As dunas e o vento
+
+Popper:
+
+> criticarei **apenas duas das doutrinas essencialistas**; duas doutrinas que são importantes porque algumas escolas modernas influentes ainda se baseiam nelas. Uma é a doutrina esotérica da **intuição intelectual**, e a outra é a doutrina muito popular de que **'devemos definir nossos termos'**, se quisermos ser precisos. (OSE 326)
+> 
+- a protolinguagem e a metalinguagem
+- o positivismo e o romantismo estão tentando encontrar bases absolutas
+
+--
+
+### As dunas e o vento
+
+> A segunda doutrina a ser criticada tem conexões ainda mais importantes com visões modernas; e se aplica especialmente ao problema do verbalismo. **Desde Aristóteles, tornou-se amplamente conhecido que não se pode provar todas as afirmações**, e que uma tentativa de fazê-lo fracassaria porque levaria apenas a uma **regressão infinita de provas**. Mas nem ele nem, aparentemente, muitos escritores modernos parecem perceber que a tentativa análoga de definir o significado de todos os nossos termos deve, da mesma forma, levar a uma **regressão infinita de definições**.
+
+--
+
+### As dunas e o vento
+
+> Na ciência, tomamos cuidado para que as afirmações que fazemos nunca dependam do significado de nossos termos. [...] É por isso que nossos termos causam tão poucos problemas. Não os sobrecarregamos. Tentamos atribuir a eles o mínimo de peso possível. **Não levamos o "significado" deles muito a sério. Estamos sempre conscientes de que nossos termos são um pouco vagos** (já que aprendemos a usá-los apenas em aplicações práticas) e **atingimos a precisão não reduzindo sua penumbra de imprecisão, mas mantendo-nos bem dentro dela, formular nossas frases de tal forma que os possíveis tons de significado de nossos termos não importam. É assim que evitamos brigas sobre palavras.**
+> 
+--
+
+### As dunas e o vento
+
+> **Um termo como “duna de areia” ou “vento” é certamente muito vago. (Quantas polegadas de altura deve ter um monte de areia para ser chamado de 'duna'? Com ​​que rapidez o ar deve se mover para ser chamado de 'vento'?) No entanto, para muitos dos geólogos propósitos, esses termos são suficientemente precisos; e para outros propósitos, quando um maior grau de diferenciação é necessário, ele sempre pode dizer 'dunas entre 4 e 30 pés de altura' ou 'vento com velocidade entre 20 e 40 milhas por hora'. E a posição nas ciências mais exatas é análoga. Nas medições físicas, por exemplo, sempre tomamos o cuidado de considerar a faixa dentro da qual pode haver erro; e precisão não consiste em tentar reduzir a nada esse alcance, ou em fingir que não existe tal alcance, mas sim em seu reconhecimento explícito**.
+> 
+--
+
+### As dunas e o vento
+
+> **A moral é simples: apenas a perspectiva parcial promete visão objetiva. […] A objetividade feminista é sobre localização limitada e saber situado, não sobre transcendência e divisão de sujeito e objeto. Dessa forma, podemos nos tornar responsáveis pelo que aprendemos a ver.** (Haraway, 1991, p. 253)
+
+--
+
+### As dunas e o vento
+
+> Estou defendendo políticas e epistemologias de localização, posicionamento e situação, onde **a parcialidade e não a universalidade** é a condição de ser ouvido para fazer reivindicações de **conhecimento racional**. (Haraway, 1991)
+
+> Acima de tudo, **o conhecimento racional não pretende se desvincular**: ser de todos os lugares e, portanto, de lugar nenhum, estar livre de interpretação, de ser representado, ser totalmente autocontido ou totalmente **formalizável**. (Haraway, 1991)
+
+--
+
+### As dunas e o vento
+
+Popper: 
+
+> A relação entre uma teoria (ou uma declaração) e as palavras usadas em sua formulação é, de várias maneiras, análoga àquela entre palavras escritas e as letras usadas para escrevê-las. [...] As letras desempenham um papel meramente técnico ou pragmático na formulação das palavras. Na minha opinião,**as palavras também desempenham um papel meramente técnico ou pragmático na formulação de teorias**. (UQ 24)
+
+--
+
+### Verdade revelada [TODO]
+
+conspiração
+otimismo epistemológico
+
+--
+
+### Essencialismo
+
+Stengers:
+
+> ...**se há algo de único no Ocidente é a sua "confiança" no médico ou psicoterapeuta**, atribuindo-lhes o desejo transparente de nos "curar" [...]. O que parece nos tornar únicos, o que a exclusão dos sofistas, à sua maneira, parece ilustrar, é **a intolerância da nossa tradição perante este tipo de ambiguidade**, a ansiedade que suscita. **Exigimos um ponto fixo, um fundamento, uma garantia.** (Stengers, 2003, p. 29)
+
+--
+
+### Essencialismo
+
+Botto:
+
+> O que realmente faz o neurótico recuar em seu desejo é a castração do Outro. **Pois que o Outro seja faltante, descompleto, que não forneça garantias, eis o que angustia o sujeito.** [....] **falta uma palavra, a da garantia última do que define o sujeito.** [...] Como resposta à angústa dessa experiência da indeterminação da falta, o que o neurótico articula na produção de sua fantasia é uma **tentativa de constituir um Outro pleno**, consistente, que lhe sustente simbolicamente (Botto, 2021, p. 204)
+
+--
+
+### Essencialismo
+
+Botto:
+
+> **É exatamente essa a experiência que uma análise deve desabrochar para o sujeito. [...] Viver o real nesses termos seria permitir-se experienciar a angústia da indeterminação sem precisar recorrer às fixações imaginárias...** (p. 208)
+
+--
+
+### Essencialismo
+
+a impossibilidade de sair da linguagem pra falar dela e A Falta são a mesma coisa
+- não precisa ser "inefável" ou "ontologicamente negativa"
+- não precisa ser um enigma meio-dito
+- isso vai de um essencialismo e das perguntas que ele permite
+  - existe alternativa
+
+--
+
+
+### "um cabrito é uma cabra jovem"
+
+> E como biólogo, \[Aristóteles\] assume que as coisas sensíveis carregam potencialmente em si as sementes, por assim dizer, de seus estados finais, ou de suas **essências**. Esta é uma das razões pelas quais ele pode dizer que a Forma ou essência está *na* coisa, não, como disse **Platão**, anterior e externa a ela. Para **Aristóteles**, todo movimento ou mudança significa a realização (ou ‘atualização’) de algumas das **potencialidades** inerentes à essência de uma coisa. (OSE)
+> 
+- As Formas
+- As Essências
+
+--
+
+### "um cabrito é uma cabra jovem"
+
+cabrito -> cabra jovem
+- o que *é* um cabrito?
+- essencialismo
+
+cabrito <- cabra jovem
+- como *chamaremos* uma cabra jovem?
+- nominalismo
+
+--
+### "um cabrito é uma cabra jovem"
+
+- significante -> significado
+- palavra (Sentido) -> descrição parcial ("bordejar")
+- impossível descrever totalmente "por causa do real"
+- o real não está dentro das palavras/coisas 
+  - mas no fato de que não há Fundamentos
+  - não é uma substância (Van Haute - Against Adaptation)
+  - "dentro de cada coisa há um indizível"
+  - "a descrição científica nunca alcançará o real dos cabritos"
+
+--
+
+### "um cabrito é uma cabra jovem"
+
+- "o que é a psicanálise? o que faz um psicanalista?"
+
+> Todo analista que acredita estar se autorizando está, na verdade, se autorizando, ao mesmo tempo tempo, de Freud (...) **A tarefa do analista é fazer a oferta que vem de Freud**, para fazê-lo operar no concreto de cada caso (...) alívio do dizer freudiano, para **torná-lo novamente presente**. (Soler apud Guillamón, rey 19)
+
+--
+
+### "um cabrito é uma cabra jovem"
+
+> **Na ciência moderna, ocorrem apenas definições nominalistas, ou seja, símbolos taquigráficos ou rótulos são introduzidos para encurtar uma longa história. E podemos ver imediatamente a partir disso que as definições não desempenham nenhum papel muito importante na ciência.** Pois os símbolos taquigráficos sempre podem, é claro, ser substituídos pelas expressões mais longas, a fórmula definidora, que eles representam. Em alguns casos, isso tornaria nossa linguagem científica muito incômoda; devemos perder tempo e papel. Mas nunca devemos perder a menor informação factual.
+> 
+--
+
+### "um cabrito é uma cabra jovem"
+
+> **Nosso 'conhecimento científico', no sentido em que este termo pode ser usado adequadamente, permanece totalmente inalterado se eliminarmos todas as definições; o único efeito é sobre a nossa linguagem, que perderia não a precisão, mas apenas a brevidade.** (Isso não deve significar que na ciência não pode haver uma necessidade prática urgente de introduzir definições, por uma questão de brevidade.) Dificilmente poderia haver um contraste maior do que aquele entre essa visão do papel desempenhado pelas definições e a visão de Aristóteles. 
+> 
+--
+
+### "um cabrito é uma cabra jovem"
+
+> Pois **as definições essencialistas de Aristóteles** são os princípios dos quais todo o nosso conhecimento é derivado; eles, portanto, contêm todo o nosso conhecimento; e servem para substituir uma fórmula longa por uma curta. Em oposição a isso, **as definições científicas ou nominalistas não contêm qualquer conhecimento, nem mesmo qualquer 'opinião'; eles não fazem nada além de introduzir novos rótulos abreviados arbitrários; eles encurtaram uma longa história**.
+
+--
+
+### "um cabrito é uma cabra jovem"
+
+- encontrar descrições cada vez mais elaboradas, mirabolantes, poéticas, brilhantes, encantadoras
+- pois a essência do objeto nunca se esgota em uma única descrição.
+- não é que uma descrição seja um nome que demos para algo; 
+- é que existe Algo que podemos descrever de infinitas formas, mas nunca totalmente.
+
+--
+
+### "um cabrito é uma cabra jovem"
+
+> Foi a crítica de Kant a todas as tentativas de provar a existência de Deus que levou à reação romântica de Fichte, Schelling e Hegel. A **nova tendência é descartar as provas e, com elas, qualquer tipo de argumento racional. Com os românticos, um novo tipo de dogmatismo torna-se moda**, tanto na filosofia quanto nas ciências sociais. **Ela nos confronta com seu ditado. E podemos pegar ou largar.** Esse período romântico de uma filosofia oracular, chamado por Schopenhauer de ‘era da desonestidade’, é por ele descrito da seguinte forma: ‘[...]. Cada página testemunha que **esses chamados filósofos não tentam ensinar, mas enfeitiçar o leitor**.' (OSE 334)
+
+--
+
+### "um cabrito é uma cabra jovem"
+
+uma descrição do real nunca o esgota, porque há algo que permanece indescrito ou indescritível.
+- isso é um problema falso
+- definições são nomes dados a coisas
+- elas não são Coisas devemos tentar e falhar em descrever
+
+--
+
+### "um cabrito é uma cabra jovem"
+
+> **Parece que o irracionalismo no sentido de uma doutrina ou credo que não propõe argumentos conexos e discutíveis, mas sim aforismos e declarações dogmáticas que devem ser "entendidos" ou deixados de lado, geralmente tenderá a se tornar propriedade de um círculo esotérico dos iniciados.** (OSE 333)
+
+--
+
+### "um cabrito é uma cabra jovem"
+
+como o processo de convencimento se dá por essa via do insight, o objetivo da filosofia seria o insight.
+- e não a comunicação de ideias.
+- ou seja: quanto mais misterioso, melhor
+- por isso é "transmissão" e não ensino. é um processo indireto (i.e. telepático) de indução de certas imagens que seriam edificantes.
+- *despair of reason*: como as coisas não podem ser descritas totalmente, não devemos tentar descrevê-las de forma alguma. 
+  - podemos apenas sugerir certas imagens que dizem algo das coisas. (Bohr)
+
+--
+
+### "um cabrito é uma cabra jovem"
+
+são só palavras. dá pra usar outras. palavras não são mágicas.
+
+por isso o inconsciente freudiano está sempre sendo 'redescoberto' por novas descrições.
+e é por isso que os psicanalistas não podem trocar as palavras que usam.
+- parte-se do ponto que algo foi Revelado. e esse algo está latente nessa Palavra
+
+--
+
+### As dunas e o vento
+
+Psicanalistas:
+- a Palavra
+- a Letra
+- a Voz
+- a Fala
+- (A farmácia de Platão!!)
+
+--
+
+### As dunas e o vento
+
+- Terceiro mundo → mundo 3
+- Realismo → essencialismo
+- falseamento/refutação
+
+- “real”
+- “pulsão”
+- “inconsciente”
+- “verdade”
+
+--
+
+### Essencialismo
+
+Pra que serve? O que acontece?
+
+Pessoas preocupadas com a “linguagem certa”
+- Sujeito x indivíduo
+
+--
+### Essencialismo
+
+> A diferença \[sexual\] essa que é erigida como base fundamental, única e imutável da teoria psicanalítica […] **a diferença sexual assume contornos não do real compreendido em seu sentido estritamente conceitual** – ou seja, ligado ao impossível e ao contingente, ou como aquilo que retorna sempre no mesmo lugar ou como o que não cessa de não se inscrever – mas quase **um sinônimo de realidade**. (Ambra, 2018, p. 84)
+
+--
+
+### Essencialismo
+
+Putin disse que invadiu a Ucrânia pra tirar os nazistas.
+- O foco psicanalítico no "significante" faz com que confiemos nisso em vez de entender o sentido do que tá sendo dito.
+
+Palavras específicas não compelem certos sentidos
+
+Sentidos específicos não compelem certas palavras
+
+ontologia -> epistemologia -> ética
+
+--
+
+### Essencialismo
+
+Invocar as palavras certas = purificação epistemológica = legitimidade normativa
+
+Devemos nos acostumar com o real!
+
+O lacanês é a metalinguagem psicanalítica.
+
+--
+
+### "Os fundamentos de Freud e lacan"
+
+A APOLa é fã de "investigar os fundamentos". Agora:
+- De onde eles partem – conhecimento situado
+- Os Fundamentos que finalmente colocarão a psicanálise no caminho certo de uma ciência
+  - a Formalização por meio da Topologia
 
 --
