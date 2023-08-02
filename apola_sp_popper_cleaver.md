@@ -502,6 +502,7 @@ Popper:
 Popper:
 
 Pode-se dizer que minha pergunta modificada, 'Como podemos esperar detectar o erro?', deriva da visão de que **tais fontes puras, imaculadas e certas não existem**, e que **questões de origem ou pureza não devem ser confundidas com questões de validade ou verdade**. Pode-se dizer que essa visão é tão antiga quanto Xenófanes. (CR 48)
+
 --
 
 ### Fundamentos
