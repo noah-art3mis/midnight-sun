@@ -4,7 +4,7 @@ author:
     url: www.gustavocosta.psc.br
     email: gustavo@arcos.org.br
     twitter: simulacro.psi
-output: popper_apolasp.html
+output: index.html
 theme: sjaakvandenberg/cleaver-dark
 style: ./style.css
 
