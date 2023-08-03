@@ -319,6 +319,14 @@ Fatos indiscutíveis → prescrições indiscutíveis
 
 ### A sociedade fechada
 
+Paulo Beer:
+
+> Embora **a localização da psicanálise na ciência** seja bastante profícua, a impossibilidade de questionamento sobre os parâmetros de cientificidade pode produzir um efeito retroativo de **filiação acrítica**, marcada sobretudo por uma crença na **impossibilidade de escolha**. Vale lembrar que esses parâmetros já eram debatidos de maneira crítica nessa época. Por outro lado, esse duplo apagamento pode servir como uma forma de manter intacto **um traço tradicionalmente reconhecido como constitutivo do lugar privilegiado da ciência: a sua inevitabilidade**. Como se a ciência fosse um trem com um trilho já pré-definido, mesmo que ainda desconhecido; mas que, mesmo sem saber exatamente o caminho futuro, só haveria uma maneira de descobri-lo: **seguir o único trilho existente**. Com a psicanálise, não seria diferente.
+
+--
+
+### A sociedade fechada
+
 Neutralização: transformação de prescrição moral em "dados objetivos"
 
 > Agora vamos primeiro examinar a alegação da teoria moral historicista de que a decisão fundamental a favor ou contra um dos sistemas morais em questão não é em si uma decisão moral; que **não se baseia em nenhuma consideração ou sentimento moral, mas em uma previsão histórica científica**. Esta afirmação é, penso eu, insustentável. (OSE 555)
