@@ -319,14 +319,6 @@ Fatos indiscutíveis → prescrições indiscutíveis
 
 ### A sociedade fechada
 
-Paulo Beer:
-
-> Embora **a localização da psicanálise na ciência** seja bastante profícua, a impossibilidade de questionamento sobre os parâmetros de cientificidade pode produzir um efeito retroativo de **filiação acrítica**, marcada sobretudo por uma crença na **impossibilidade de escolha**. Vale lembrar que esses parâmetros já eram debatidos de maneira crítica nessa época. Por outro lado, esse duplo apagamento pode servir como uma forma de manter intacto **um traço tradicionalmente reconhecido como constitutivo do lugar privilegiado da ciência: a sua inevitabilidade**. Como se a ciência fosse um trem com um trilho já pré-definido, mesmo que ainda desconhecido; mas que, mesmo sem saber exatamente o caminho futuro, só haveria uma maneira de descobri-lo: **seguir o único trilho existente**. Com a psicanálise, não seria diferente.
-
---
-
-### A sociedade fechada
-
 Neutralização: transformação de prescrição moral em "dados objetivos"
 
 > Agora vamos primeiro examinar a alegação da teoria moral historicista de que a decisão fundamental a favor ou contra um dos sistemas morais em questão não é em si uma decisão moral; que **não se baseia em nenhuma consideração ou sentimento moral, mas em uma previsão histórica científica**. Esta afirmação é, penso eu, insustentável. (OSE 555)
@@ -351,7 +343,58 @@ Neutralização: transformação de prescrição moral em "dados objetivos"
 
 --
 
-### A sociedade fechada
+### Popper 🤝 Lacan
+
+Paulo Beer:
+
+> Embora **a localização da psicanálise na ciência** seja bastante profícua, a impossibilidade de questionamento sobre os parâmetros de cientificidade pode produzir um efeito retroativo de **filiação acrítica**, marcada sobretudo por uma crença na **impossibilidade de escolha**. [...] 
+
+--
+
+### Popper 🤝 Lacan
+
+Paulo Beer:
+
+> Por outro lado, esse duplo apagamento pode servir como uma forma de manter intacto **um traço tradicionalmente reconhecido como constitutivo do lugar privilegiado da ciência: a sua inevitabilidade**. Como se a ciência fosse um trem com um trilho já pré-definido, mesmo que ainda desconhecido; mas que, mesmo sem saber exatamente o caminho futuro, só haveria uma maneira de descobri-lo: **seguir o único trilho existente**. Com a psicanálise, não seria diferente. (Rosa 7)
+
+--
+
+### Popper 🤝 Lacan
+
+Paulo Beer:
+
+> Dentro do pensamento **lacaniano**, tal inércia seria justamente um modo de resistência, algo que funcionaria para **evitar a angústia advinda da opacidade produzida pela ausência de um sentido essencial, ou de uma verdade absoluta**. **Isso não significava uma defesa de um gozo individualista — o que seria restaurar uma verdade absoluta invertida** —, mas sim de um outro modo de implicação na definição dos parâmetros de julgamento, modo este capaz de **produzir laços sem a necessidade de um outro garantidor**.
+
+--
+
+### Popper 🤝 Lacan
+
+ele usa Lacan pra argumentar isso
+- mas Lacan não é inevitável
+- esse é literalmente o argumento do Popper
+
+essa inevitabilidade é que Popper chama de pseudociência
+- a ciência como inevitável nunca esteve em questão
+- a certeza não é permitida aos humanos
+- pbe quer ser inevitável
+  - "ciência não é questão de gosto"
+
+--
+### Popper 🤝 Lacan
+
+D'agord (a inevitabilidade por outras vias: epistemologia, formalização, estrutura):
+
+> O teorema da incompletude colocará questões que serão traduzidas por Lacan nas seguintes formulações: **não há Outro do Outro**, não há universo de discurso. O sujeito da enunciação se exclui de seu enunciado ao concluir seu dizer. **Essas questões, por sua vez, _requerem_ pensar o inconsciente como uma superfície topológica** [...]. A incidência da verdade como causa na ciência deve ser reconhecida sob o aspecto de causa formal. Isso, porém, para esclarecer que **a psicanálise, ao contrário, acentua seu aspecto de causa material**.
+
+--
+
+### Popper 🤝 Lacan
+
+> Uma série de significantes acontece a partir de uma diferença de um com outro. Essa diferença é tão radical que um significante se define por ser diferente de si mesmo. **Mas aqui não é apenas na linguística como ciência que Lacan está encontrando fundamentos epistemológicos para a psicanálise, mas também em uma nova disciplina, a lógica-matemática** para a qual foi fundamental a contribuição de Frege.
+
+--
+
+### Responsabilidade
 
 Rorty:
 
