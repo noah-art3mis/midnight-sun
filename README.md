@@ -5,6 +5,8 @@ Acesse aqui: https://noah-art3mis.github.io/midnight-sun/
 
 ## Apresentação feita usando Markdown e Cleaver    
 
+    https://www.markdownguide.org/
+
     http://jdan.github.io/cleaver/
 
     https://github.com/jdan/cleaver/blob/master/docs/options.md
