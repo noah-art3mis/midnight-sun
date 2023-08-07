@@ -8,20 +8,19 @@
   background-color: #0c2a4a;
 } */
 
-.slide-content {
-  max-width: 60ch;
-}
-
 strong {
   font-weight: 500;
   color: #a6e22e;
 }
 
-/* blockquote {
-  overflow-y: scroll;
-  max-height: 100%;
-} */
-
 .slide-content {
-  overflow-y: scroll;
+  overflow: visible;
+  max-width: 60ch;
+}
+
+.slide {
+  padding-top: 10dvh;
+  padding-bottom: 10dvh;
+  padding-left: 5dvw;
+  padding-right: 5dvw;
 }
