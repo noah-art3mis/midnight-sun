@@ -1,7 +1,7 @@
 # O sol da meia noite
 ## Contribuições do racionalismo crítico para a psicanálise lacaniana contemporânea
 
-Ver no github pages: https://noah-art3mis.github.io/midnight-sun/
+Acesse aqui: https://noah-art3mis.github.io/midnight-sun/
 
 ## Apresentação feita usando Markdown e Cleaver    
 
