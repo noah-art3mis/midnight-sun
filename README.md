@@ -1,26 +1,9 @@
-# O sol da meia noite
-## Contribuições do racionalismo crítico para a psicanálise lacaniana contemporânea
+# O sol da meia noite: contribuições do racionalismo crítico para a psicanálise lacaniana contemporânea
 
-Acesse aqui: https://noah-art3mis.github.io/midnight-sun/
+Presentation on psychoanalysis and philosophy of science. Exploring the seemingly impossible convergence between Popper and Lacan.
 
-## Apresentação feita usando Markdown e Cleaver    
+Access here: https://youtu.be/L5_ZwmANreA?list=PLBIf2_13ZS7N8s5-2oe_d4vYETOXuF6oF
 
-    https://www.markdownguide.org/
+Slides here: https://noah-art3mis.github.io/midnight-sun/
 
-    http://jdan.github.io/cleaver/
-
-    https://github.com/jdan/cleaver/blob/master/docs/options.md
-
-## How to
-
-    npm install -g cleaver
-
-    cleaver <filename>
-
-This makes a html file.
-
-
-## Add
-
-- Conversor sphinx - cleaver
-- quando escreve `--` gera um novo slide com o título do anterior.
+Made using [Cleaver](http://jdan.github.io/cleaver/).
